@@ -4,4 +4,4 @@ AMIGUI_Installer_web.exe is stand-alone application that is used to run the soft
 
 The *.m files are the MATLAB source code used to generate the executables.
 
-Questions: taylora10@janelia.hhmi.org
+Questions: aic@janelia.hhmi.org
